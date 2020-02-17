@@ -12,7 +12,7 @@ Teremos que utilizar a plataforma Microsoft Xamarin.
 
 ### Desafio
 
-Criar uma aplicação Xamarin na arquitetura MVVM que deve:
+Criar uma aplicação Xamarin (OS: Android) na arquitetura MVVM que deve:
 
 * Criar um produto;
 * Criar uma categoria; 
